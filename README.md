@@ -2,8 +2,8 @@
 
  - My name is Andrei Morais Barbosa, people often call me Kestrel 🙇🏽‍♀️
  - Bachelor of Biological Sciences 🎓
- - I'm 27 years old 📅
- - Studying and I want to work with web development, since 2021 💡
+ - 27 years old 📅
+ - I'm Studying and I want to work with web development, since 2021 💡
 
  I have knowledge in:
  <div style="display: inline_block">
