@@ -11,11 +11,6 @@
 <img align="center" alt="AndreiKestrel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="AndreiKestrel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- <br>
- I know very little about: C and java 🤏🏽
-  <div style="display: inline_block">
-<img align="center" alt="AndreiKestrel-C" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-<img align="center" alt="AndreiKestrel-java" height="30" width="65" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
 </div>
  <br>
  Currently studying:  
