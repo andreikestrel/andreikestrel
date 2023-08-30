@@ -1,6 +1,6 @@
 # Welcome to my profile 👋🏽 
 
- - My name is Andrei Barbosa, people often call me Kestrel 👨‍💻
+ - My name is Andrei Barbosa, people often call me Kestrel 👨🏾‍💻
  - Bachelor of Biological Sciences 🎓
  - 27 years old 📅
  - I'm Studying and I want to work with web development, since 2021💡
