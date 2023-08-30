@@ -6,7 +6,7 @@
  - I'm Studying and I want to work with web development, since 2021💡
  - I am currently studying Technologist in Systems Analysis and Development at UNINTER 🎓
 
- I have knowledge in:
+ Skills:
  <div style="display: inline_block">
 <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
