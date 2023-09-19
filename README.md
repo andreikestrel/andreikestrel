@@ -39,6 +39,7 @@ Let's embark on this exciting journey together! 🚀🌟
 <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 <br>
+<br>
 Some Knowledge:
 <div style="display: inline_block">
 <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
