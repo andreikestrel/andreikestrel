@@ -39,7 +39,6 @@ Let's embark on this exciting journey together! 🚀🌟
 <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 <br>
-<br>
 Some Knowledge:
 <div style="display: inline_block">
 <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -48,7 +47,7 @@ Some Knowledge:
 </div>
 <br>
 
-**Looking for a professional opportunity**<br><br>
+**Thank you for visiting my profile! Let's keep our journey going? Connect with me on LinkedIn or reach out to explore new opportunities and share knowledge.<br><br>
 <div style="display: inline_block">
 <h3>My social networks:</h3>
 <a href="https://instagram.com/andreikestrel" target="_blank"><img align="center" alt="AndreiKestrel-Insta" height="35" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
