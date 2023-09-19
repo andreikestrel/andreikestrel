@@ -1,10 +1,25 @@
 # Welcome to my profile 👋🏽 
 
- - My name is Andrei Barbosa, people often call me Kestrel 👨🏾‍💻
- - Bachelor of Biological Sciences 🎓
- - 27 years old 📅
- - I'm Studying and I want to work with web development, since 2021💡
- - I am currently studying Technologist in Systems Analysis and Development at UNINTER 🎓
+Hi there, everyone! I'm in the process of turning my passion into a profession as a front-end developer. 🚀
+
+After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey. ❤️
+
+Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion. 📚
+
+Believe me, transitioning from one field to another requires courage and determination, and I'm fully committed to making this change. 💪
+
+Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development. 📖
+
+I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends. 🌟
+
+I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark. 💻
+
+You can reach me via email at andreibarbosa.dev@gmail.com, and you can find me on GitHub at andreikestrel. 📧
+
+I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development. 🌈
+
+Let's embark on this exciting journey together! 🚀🌟
+
 
  Skills:
  <div style="display: inline_block">
@@ -18,7 +33,9 @@
  <br>
  Currently studying:  
  <div style="display: inline_block">
-<img align="center" alt="AndreiKestrel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 <br>
