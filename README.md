@@ -14,7 +14,7 @@ I believe that learning is a continuous journey, and I'm constantly updating my 
 
 I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark. 💻
 
-You can reach me via email at andreibarbosa.dev@gmail.com, and you can find me on GitHub at andreikestrel. 📧
+You can reach me via email at andreibarbosa.dev@gmail.com, and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/). 📧
 
 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development. 🌈
 
@@ -47,7 +47,8 @@ Some Knowledge:
 </div>
 <br>
 
-Thank you for visiting my profile! Let's keep our journey going? Connect with me on LinkedIn or reach out to explore new opportunities and share knowledge<br><br>
+Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
+<br><br>
 <div style="display: inline_block">
 <h3>My social networks:</h3>
 <a href="https://instagram.com/andreikestrel" target="_blank"><img align="center" alt="AndreiKestrel-Insta" height="35" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
