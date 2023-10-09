@@ -67,6 +67,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&layout=compact"/>
     </a>
+  <br> <br>
 </div>
 
 Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
