@@ -1,25 +1,24 @@
-# Welcome to my profile 👋🏽 
+👋🏽 Welcome to my profile! 
 
-Hi there, everyone! I'm in the process of turning my passion into a profession as a front-end developer. 🚀
+🚀 I'm in the process of turning my passion into a profession as a front-end developer.
 
-After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey. ❤️
+❤️ After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey.
 
-Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion. 📚
+📚 Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion.
 
-Believe me, transitioning from one field to another requires courage and determination, and I'm fully committed to making this change. 💪
+💪 Transitioning from one field to another requires courage and determination, and I'm fully committed to making this change.
 
-Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development. 📖
+📖 Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development.
 
-I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends. 🌟
+🌟 I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends.
 
-I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark. 💻
+💻 I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark.
 
-You can reach me via email at andreibarbosa.dev@gmail.com, and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/). 📧
+📧 You can reach me via email at andreibarbosa.dev@gmail.com , and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
 
-I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development. 🌈
+🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development.
 
-Let's embark on this exciting journey together! 🚀🌟
-
+🚀🌟 Let's embark on this exciting journey together!
 
  Skills:
 <div style="display: inline_block">
@@ -29,19 +28,12 @@ Let's embark on this exciting journey together! 🚀🌟
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-<div style="display: inline_block">
     <img align="center" alt="React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Next" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-</div>
-<br>
-<div style="display: inline_block">
     <img align="center" alt="Typescript" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="mysql" height="30" width="40"
@@ -60,6 +52,8 @@ Some Knowledge:
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
+
+![Andrei Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=andreikestrel&theme=dark&show_icons=true)
 
 Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
 <br><br>
