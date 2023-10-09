@@ -21,39 +21,53 @@
 🚀🌟 Let's embark on this exciting journey together!
 
  Skills:
-<div style="display: inline_block">
-    <img align="center" alt="Javascript" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="React" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Next" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Typescript" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="mysql" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="php" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
-<br><br>
-Some Knowledge:
-<div style="display: inline_block">
-    <img align="center" alt="c" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="java" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
+<div align="center">
+ <p>
+    <h3>Skills</h3>
+</p>
+   <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
 
-![Andrei Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=andreikestrel&theme=dark&show_icons=true)
+  <h3>Some Knowledge</h3>
+  <div style="display: inline_block">
+     <img align="center" alt="c" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+     <img align="center" alt="java" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="center" alt="python" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   </div>
+  </div>
+<br><br>
+
+<br>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&layout=compact"/>
+    </a>
+</div>
 
 Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
 <br><br>
