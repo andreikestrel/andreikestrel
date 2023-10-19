@@ -20,7 +20,6 @@
 
 🚀🌟 Let's embark on this exciting journey together!
 
- Skills:
 <div align="center">
  <p>
     <h3>Skills</h3>
