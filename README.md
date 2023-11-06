@@ -22,7 +22,6 @@
 
 <div align="center">
  <p>
-    <h3>Skills</h3>
 </p>
    <a href="https://github.com/Ileriayo/markdown-badges">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -49,16 +48,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
 
-  <h3>Some Knowledge</h3>
-  <div style="display: inline_block">
-     <img align="center" alt="c" height="30" width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     <img align="center" alt="java" height="30" width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <img align="center" alt="python" height="30" width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </div>
-  </div>
+
 <br><br>
 
 <br>
