@@ -38,8 +38,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
   </a>
 </p>
+
+
 <div align="center">
-Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
+Thank you for visiting my profile! Let's keep our journey going? <a href="https://www.linkedin.com/in/barbosaandrei/"> <strong> Connect with me on LinkedIn</strong></a> or reach out to explore new opportunities and share knowledge.
 <br><br>
 <div style="display: inline_block">
 <h3>My social networks:</h3>
