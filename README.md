@@ -1,64 +1,44 @@
-👋🏽 Welcome to my profile! 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🚀 I'm in the process of turning my passion into a profession as a front-end developer.
+## Welcome to my profile, my name is <strong>Andrei Barbosa</strong>, but I am commonly called <strong>Andrei Kestrel</strong> 
 
-❤️ After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey.
+- 🚀 I'm in the process of turning my passion into a profession as a front-end developer.
 
-📚 Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion.
+- ❤️ After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey.
 
-💪 Transitioning from one field to another requires courage and determination, and I'm fully committed to making this change.
+- 📚 Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion.
 
-📖 Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development.
+- 💪 Transitioning from one field to another requires courage and determination, and I'm fully committed to making this change.
 
-🌟 I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends.
+- 📖 Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development.
 
-💻 I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark.
+- 🌟 I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends.
 
-📧 You can reach me via email at andreibarbosa.dev@gmail.com , and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
+- 💻 I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark.
 
-🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development.
+- 📧 You can reach me via email at andreibarbosa.dev@gmail.com , and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
 
-🚀🌟 Let's embark on this exciting journey together!
+- 🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development.
 
-<div align="center">
- <p>
-</p>
-   <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-
-
-<br><br>
-
+- 🚀🌟 Let's embark on this exciting journey together!
 <br>
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&layout=compact"/>
-    </a>
-  <br> <br>
-</div>
 
+### My skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,tailwind,sass,mysql,nodejs" />
+  </a>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+  </a>
+</p>
+<div align="center">
 Thank you for visiting my profile! Let's keep our journey going? [Connect with me on LinkedIn](https://www.linkedin.com/in/barbosaandrei/) or reach out to explore new opportunities and share knowledge.
 <br><br>
 <div style="display: inline_block">
