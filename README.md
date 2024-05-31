@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Welcome to my profile, my name is <strong>Andrei Barbosa</strong>, but I am commonly called <strong>Andrei Kestrel</strong> 
+### Welcome to my profile, my name is <strong>Andrei Barbosa</strong>, but I am commonly called <strong>Andrei Kestrel</strong> 
 
 - 🚀 I'm in the process of turning my passion into a profession as a front-end developer.
 
