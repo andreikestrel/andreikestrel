@@ -2,7 +2,7 @@
 
 ### Welcome to my profile, my name is <strong>Andrei Barbosa</strong>, but I am commonly called <strong>Andrei Kestrel</strong> 
 
-- 🚀 I'm in the process of turning my passion into a profession as a front-end developer.
+- 🚀 I'm in the process of turning my passion into a profession as a full stack developer.
 
 - ❤️ After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey.
 
@@ -10,7 +10,7 @@
 
 - 💪 Transitioning from one field to another requires courage and determination, and I'm fully committed to making this change.
 
-- 📖 Since 2020, I've been tirelessly dedicated to learning the necessary skills to excel in the world of front-end development.
+- 📖 Since 2021, I have developed a keen interest and have been tirelessly dedicated to learning the necessary skills to excel in both front-end and back-end development.
 
 - 🌟 I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends.
 
@@ -18,7 +18,7 @@
 
 - 📧 You can reach me via email at andreibarbosa.dev@gmail.com , and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
 
-- 🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of front-end development.
+- 🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of full stack development.
 
 - 🚀🌟 Let's embark on this exciting journey together!
 <br>
@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,tailwind,sass,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,tailwind,sass,mysql,nodejs,java" />
   </a>
 </p>
 
