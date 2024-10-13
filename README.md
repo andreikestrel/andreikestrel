@@ -39,7 +39,7 @@
   </a>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&hide_progress=true)
 <div align="center">
 Thank you for visiting my profile! Let's keep our journey going? <a href="https://www.linkedin.com/in/barbosaandrei/"> <strong> Connect with me on LinkedIn</strong></a> or reach out to explore new opportunities and share knowledge.
 <br><br>
