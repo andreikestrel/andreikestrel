@@ -23,23 +23,28 @@
 - 🚀🌟 Let's embark on this exciting journey together!
 <br>
 
-### My skills
+<div align="center">
+  <h3>My skills</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,react,next,typescript,tailwind,sass,java,nodejs,mysql,mongodb" />
+    </a>
+  </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,next,typescript,tailwind,sass,java,nodejs,mysql,mongodb" />
-  </a>
-</p>
+  <h3>Development Tools</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+    </a>
+  </p>
+</div>
 
-### Development Tools
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&hide_progress=true" alt="Top Langs" />
+</div>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
-  </a>
-</p>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreikestrel&hide_progress=true)
 <div align="center">
 Thank you for visiting my profile! Let's keep our journey going? <a href="https://www.linkedin.com/in/barbosaandrei/"> <strong> Connect with me on LinkedIn</strong></a> or reach out to explore new opportunities and share knowledge.
 <br><br>
