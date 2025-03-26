@@ -39,12 +39,6 @@
   </p>
 </div>
 
-  <div align="center">
-    <div style="display: flex; align-items: start; gap: 55px; flex-wrap: wrap;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreikestrel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Langs"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=andreikestrel&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats"/>
-    </div>
-  </div>
 
 
 
