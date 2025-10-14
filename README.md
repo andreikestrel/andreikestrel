@@ -1,51 +1,42 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Welcome to my profile, my name is <strong>Andrei Barbosa</strong>, but I am commonly called <strong>Andrei Kestrel</strong> 
+### Welcome to my profile! My name is **Andrei Barbosa**, commonly known as **Andrei Kestrel**.
 
-- 🚀 I'm in the process of turning my passion into a profession as a full stack developer.
+🚀 I am a **Full Stack Developer** with **2 years of professional experience** in the market, focused on delivering efficient and well-structured solutions.
 
-- ❤️ After graduating in Biological Sciences, I decided it was time to follow my heart and embark on a new journey.
+💼 I spent **1.5 years** at **Aastera** (a consulting firm), where I developed a strong ability to **quickly adapt** to different demands, diverse stacks, and tight deadlines. This experience involved working on projects of varying types and scopes.
 
-- 📚 Currently, I'm pursuing a degree in Systems Analysis and Development to align my skills with my true passion.
+💡 **Key Stacks:** I have a high affinity for **PHP (Laravel)** and **Next.js**.
 
-- 💪 Transitioning from one field to another requires courage and determination, and I'm fully committed to making this change.
+🛠️ **Project Experience:** I have practical experience in developing **web systems, ERPs, chatbots, and virtual stores**, utilizing technologies such as **PHP (Laravel), Next.js, MySQL, MongoDB, jQuery, Python, CodeIgniter, and Flutter**.
 
-- 📖 Since 2021, I have developed a keen interest and have been tirelessly dedicated to learning the necessary skills to excel in both front-end and back-end development.
+🤝 **Methodologies & Soft Skills:** I am experienced with **Agile methodologies (Jira, Kanban, Scrum)**. My background (lab technician, sales, museum monitor) helped shape my **communicative, analytical, and collaborative** profile. I highly value **organization, teamwork, and user experience**.
 
-- 🌟 I believe that learning is a continuous journey, and I'm constantly updating my skills to stay at the forefront of the latest front-end development trends.
+📚 **Education:**
+* Systems Analysis and Development (Uninter)
+* Biological Sciences (UFPel)
 
-- 💻 I'm excited to be part of a passionate technology community and to create digital experiences that leave a lasting mark.
-
-- 📧 You can reach me via email at andreibarbosa.dev@gmail.com , and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
-
-- 🌈 I know the road ahead may be challenging, but I'm determined to overcome all obstacles and create an amazing future in the world of full stack development.
-
-- 🚀🌟 Let's embark on this exciting journey together!
-<br>
-
-<div align="center">
-  <h3>My skills</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,react,next,typescript,tailwind,sass,java,nodejs,mysql,mongodb" />
-    </a>
-  </p>
-
-  <h3>Development Tools</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
-    </a>
-  </p>
-</div>
-
-
-
+📧 You can reach me via email at **andreibarbosa.dev@gmail.com**, and you can find me on [LinkedIn](https://www.linkedin.com/in/barbosaandrei/).
 
 ---
 
 <div align="center">
-Thank you for visiting my profile! Let's keep our journey going? <a href="https://www.linkedin.com/in/barbosaandrei/"> <strong> Connect with me on LinkedIn</strong></a> or reach out to explore new opportunities and share knowledge.
+  <h3>My Skills</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,js,mysql,mongodb,py,flutter,jquery,js,html,css" />
+  </p>
+
+  <h3>Development Tools & Methodologies</h3>
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+    </a>
+  </p>
+</div>
+
+---
+<div align="center">
+Thank you for visiting my profile! Let's connect to explore new opportunities and share knowledge.
 <br><br>
 <div style="display: inline_block">
 <h3>My social networks:</h3>
