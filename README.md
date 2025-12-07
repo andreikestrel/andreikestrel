@@ -21,17 +21,22 @@
 ---
 
 <div align="center">
-  <h3>My Skills</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,js,mysql,mongodb,py,flutter,jquery,js,html,css" />
-  </p>
+  
+<h3>Skills</h3>
 
-  <h3>Development Tools & Methodologies</h3>
-  <p align="center">
-    <a>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
-    </a>
-  </p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP_myAdmin](https://img.shields.io/badge/PHP_myAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 </div>
 
 ---
@@ -39,7 +44,5 @@
 Thank you for visiting my profile! Let's connect to explore new opportunities and share knowledge.
 <br><br>
 <div style="display: inline_block">
-<h3>My social networks:</h3>
-<a href="https://instagram.com/andreikestrel" target="_blank"><img align="center" alt="AndreiKestrel-Insta" height="35" width="145" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/barbosaandrei/" target="_blank"><img align="center" alt="AndreiKestrel-linkedin" height="35" width="145" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
