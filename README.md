@@ -1,16 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Welcome to my profile! My name is **Andrei Barbosa**, commonly known as **Andrei Kestrel**.
+### Hey, I'm **Andrei Barbosa** — also known as **Andrei Kestrel** 👋
 
-🚀 I am a **Full Stack Developer** with **2 years of professional experience** in the market, focused on delivering efficient and well-structured solutions.
+I'm a **Fullstack Developer** with **2 years of professional experience**, most of it inside a fast-paced consulting firm (**Aastera Tecnologia**) where stacks rotated constantly and every project was a new challenge.
 
-💼 I spent **1.5 years** at **Aastera** (a consulting firm), where I developed a strong ability to **quickly adapt** to different demands, diverse stacks, and tight deadlines. This experience involved working on projects of varying types and scopes.
+My core stack is **PHP with Laravel and CodeIgniter**, including legacy system maintenance — which taught me to read, refactor and extend code I didn't write. Beyond backend, I work with **Flutter (Android)**, build interfaces in **Vue 3** and **Next.js**, and handle real-time features via **WebSocket**.
 
-💡 **Key Stacks:** I have a high affinity for **PHP (Laravel)** and **Next.js**.
+At **Aastera** I also wore a light PM hat: managing sprints on Jira, breaking down features into tasks, assigning responsibilities, and translating client requirements into actionable specs.
 
-🛠️ **Project Experience:** I have practical experience in developing **web systems, ERPs, chatbots, and virtual stores**, utilizing technologies such as **PHP (Laravel), Next.js, MySQL, MongoDB, jQuery, Python, CodeIgniter, and Flutter**.
+🏗️ Currently building
 
-🤝 **Methodologies & Soft Skills:** I am experienced with **Agile methodologies (Jira, Kanban, Scrum)**. My background (lab technician, sales, museum monitor) helped shape my **communicative, analytical, and collaborative** profile. I highly value **organization, teamwork, and user experience**.
+**Pardal Cloth** — Full e-commerce platform · `Laravel 12` `Vue 3` `Inertia.js` `TypeScript` `Docker`
+
+**MedOryx** — Clinic management SaaS with hybrid multi-tenant architecture · `Laravel` `Next.js` `Flutter` `PostgreSQL`
 
 📚 **Education:**
 * Systems Analysis and Development (Uninter)
